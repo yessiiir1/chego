@@ -8,7 +8,7 @@ def cego(i,j):
         print("всем пока")
 
 
-
+#cdfdfldfld
 
 
 
