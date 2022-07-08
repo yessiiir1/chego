@@ -31,7 +31,7 @@ else:
 
 from flask import Flask, request, render_template
 
-app = Flask(website)
+app = Flask(__name__)
 
 
 
